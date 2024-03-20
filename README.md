@@ -1,6 +1,4 @@
-# Domain Helper
-
-This tool is used to help free up from the clutter of URLs, domains.
+# Utils
 
 ## Usage
 
